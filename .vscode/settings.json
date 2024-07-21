@@ -24,7 +24,11 @@
             }
         }
     },
+    "Command Prompt": {
+        "path": ["${env:windir}\\System32\\cmd.exe"],
+        "env": { 
+            "PATH": "D:\\Softwares\\PortableGit\\bin"
+        }
+    }
     "terminal.integrated.defaultProfile.windows": "Command Prompt"
-  }
-
- 
+}
