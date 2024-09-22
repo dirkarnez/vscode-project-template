@@ -2,6 +2,9 @@ vscode-project-template
 =======================
 ### Documentation
 - [Terminal Profiles in Visual Studio Code](https://code.visualstudio.com/docs/terminal/profiles)
+
+### Tasks
+- Use ["actboy168.tasks"](https://marketplace.visualstudio.com/items?itemName=actboy168.tasks) extension for [`.vscode/tasks.json`](.vscode/tasks.json)
 - [Tasks in Visual Studio Code](https://code.visualstudio.com/docs/editor/tasks#_custom-tasks)
 
 ### Reference
