@@ -6,6 +6,7 @@ vscode-project-template
 ### Tasks
 - Use ["actboy168.tasks"](https://marketplace.visualstudio.com/items?itemName=actboy168.tasks) extension for [`.vscode/tasks.json`](.vscode/tasks.json)
 - [Tasks in Visual Studio Code](https://code.visualstudio.com/docs/editor/tasks#_custom-tasks)
+- [VS Code tasks.json with custom shell configured](https://gist.github.com/solnic/1dbbbb89515d35b291e6f1b72dbcfa2c)
 
 ### Reference
 - [Vscode升级后 配置shell----profiles.windows_terminal.integrated.profiles.windows-CSDN博客](https://blog.csdn.net/qq_38276120/article/details/120202519)
