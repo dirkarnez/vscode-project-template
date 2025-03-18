@@ -13,6 +13,7 @@ vscode-project-template
 - [Remote Development using SSH](https://code.visualstudio.com/docs/remote/ssh)
   - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
   - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+- [Developing with Remote Tunnels](https://code.visualstudio.com/docs/remote/tunnels)
 ### Reference
 - [Vscode升级后 配置shell----profiles.windows_terminal.integrated.profiles.windows-CSDN博客](https://blog.csdn.net/qq_38276120/article/details/120202519)
 - [VScode 调试教程 tasks.json和launch.json的设置（超详细）-CSDN博客](https://blog.csdn.net/qq_59084325/article/details/125662393)
