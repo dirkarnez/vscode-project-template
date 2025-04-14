@@ -3,6 +3,10 @@
         "ms-vscode-remote.remote-containers",
         "ms-azuretools.vscode-docker",
         "ms-vscode-remote.remote-wsl",
-        "actboy168.tasks"
+        "actboy168.tasks",
+        "ms-vscode.cpptools",
+        "golang.go",
+        "ms-vscode.cpptools-themes",
+        "ms-vscode.cpptools-extension-pack"
     ]
 }
