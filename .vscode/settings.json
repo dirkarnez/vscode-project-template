@@ -11,7 +11,7 @@
     // If set to auto, the value will be guessed based on the opened file.
     "editor.insertSpaces": true,
 
-    // do not lets file's own indentation override above settings
+    // Do not lets file's own indentation override above settings
     "editor.detectIndentation": false,
     
     "terminal.integrated.profiles.windows": {
